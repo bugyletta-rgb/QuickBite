@@ -1,0 +1,8 @@
+
+{
+  "name": "QuickBite: AI Recipe Chef",
+  "description": "Multi-language AI recipe generator for breakfast, vegan, dinner, and more. Localized in Turkish and Spanish.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
